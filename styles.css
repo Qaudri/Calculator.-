@@ -36,6 +36,13 @@
   .span-two {
     grid-column: span 2;
   }
+
+  .equal{
+    background: #ff6600 !important;
+
+  }
+
+  
   
   .calculator-screen {
     background: rgba(90, 90, 90, 0.6);
